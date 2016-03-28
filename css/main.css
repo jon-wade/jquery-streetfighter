@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    font-family: "Shadows Into Light", sans-serif;
 }
 
 .main {
@@ -59,4 +60,8 @@ body {
     float: left;
 }
 
+.instructions {
+    font-size: 3em;
+    padding-top: 4rem;
+}
 
